@@ -9,6 +9,7 @@ namespace GitTestApplication
     {
         static void Main(string[] args)
         {
+            Console.Write("This is Test Application");
         }
     }
 }
